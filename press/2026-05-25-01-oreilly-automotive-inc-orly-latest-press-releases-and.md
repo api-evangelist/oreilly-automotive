@@ -1,7 +1,9 @@
 ---
 title: O'Reilly Automotive, Inc. (ORLY) Latest Press Releases & ...
 url: https://finance.yahoo.com/quote/ORLY/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"O''Reilly Automotive" press release artificial intelligence'
 position: 1
 source: serpapi-google

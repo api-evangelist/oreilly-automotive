@@ -1,7 +1,9 @@
 ---
 title: O'Reilly Automotive (NASDAQ:ORLY) has outperformed ...
 url: https://www.facebook.com/Benzinga/posts/oreilly-automotive-nasdaqorly-has-outperformed-the-market-over-the-past-20-years/1415261083932891/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"O''Reilly Automotive" press release artificial intelligence'
 position: 5
 source: serpapi-google
